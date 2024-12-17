@@ -21,7 +21,7 @@
   "@subscriptions": {},
   "trending": "Tendentias",
   "@trending": {},
-  "saved": "Salvate",
+  "saved": "Salveguardate",
   "@saved": {},
   "unable_to_load_subscription_groups": "Non poteva cargar le gruppos de subscription",
   "@unable_to_load_subscription_groups": {},
@@ -43,7 +43,7 @@
   "@unable_to_load_the_group_settings": {},
   "filters": "Filtros",
   "@filters": {},
-  "unable_to_find_your_saved_tweets": "Non poteva trovar tu tweets salvate.",
+  "unable_to_find_your_saved_tweets": "Non poteva trovar tu tweets salveguardate.",
   "@unable_to_find_your_saved_tweets": {},
   "include_replies": "Includer le responsas",
   "@include_replies": {},
@@ -168,5 +168,9 @@
   "close": "Clauder",
   "@close": {},
   "trends": "Tendentias",
-  "@trends": {}
+  "@trends": {},
+  "unable_to_load_the_list_of_follows": "Non poteva cargar le lista de sequites",
+  "@unable_to_load_the_list_of_follows": {},
+  "help_support_fritters_future": "Adjuta a supportar le futuro de Squawker",
+  "@help_support_fritters_future": {}
 }
